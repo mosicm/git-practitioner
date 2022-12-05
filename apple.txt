@@ -1,1 +1,1 @@
-apple
+apple can be red, green or yellow
